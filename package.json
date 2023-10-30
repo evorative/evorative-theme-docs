@@ -1,6 +1,6 @@
 {
-  "name": "evorative-theme-docs",
-  "version": "2.13.2",
+  "name": "@lintangdev/evorative-theme-docs",
+  "version": "1.1.1",
   "description": "Modified Nextra theme by Evorative Team",
   "repository": "https://github.com/shuding/nextra",
   "author": "Shu Ding <g@shud.in>",
